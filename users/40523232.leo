@@ -36,14 +36,60 @@
 <v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.64"><vh>各式內容引用範例</vh></v>
-<v t="leo.20170622234235.1" a="E"><vh>newHeadline</vh>
-<v t="yen.20170108171733.67"><vh>導入縮排程式碼</vh>
-<v t="yen.20170108171733.69"><vh>導入影片</vh>
-<v t="yen.20170108171733.70"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170622234235.1" a="E"><vh>week 1</vh>
+<v t="leo.20180626222100.1"><vh>week 1</vh></v>
 </v>
-<v t="leo.20170622234003.1"><vh>video</vh></v>
+<v t="leo.20180626221335.1" a="E"><vh>week 2</vh>
+<v t="leo.20180626222209.1"><vh>week 2</vh></v>
 </v>
+<v t="leo.20180626221502.1" a="E"><vh>week 3</vh>
+<v t="leo.20180626222245.1"><vh>week 3</vh></v>
+</v>
+<v t="leo.20180626221900.1"><vh>week 4</vh>
+<v t="leo.20180626222602.1"><vh>week 4</vh></v>
+</v>
+<v t="leo.20180626222707.1"><vh>week 5</vh>
+<v t="leo.20180626222717.1"><vh>week 5</vh></v>
+</v>
+<v t="leo.20180626222847.1"><vh>week 6</vh>
+<v t="leo.20180626222851.1"><vh>week 6</vh></v>
+</v>
+<v t="leo.20180626222920.1"><vh>week 7</vh>
+<v t="leo.20180626222935.1"><vh>week 7</vh></v>
+</v>
+<v t="leo.20180626223324.1"><vh>week 9</vh>
+<v t="leo.20180626223336.1"><vh>v-rep</vh>
+<v t="leo.20180626223407.1"><vh>v-rep</vh></v>
+</v>
+<v t="leo.20180626223511.1"><vh>2</vh>
+<v t="leo.20180626223535.1"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20180626224025.1" a="E"><vh>自評</vh>
+<v t="leo.20180626224047.1"><vh>自評</vh></v>
+</v>
+<v t="leo.20180626224124.1"><vh>week 10</vh>
+<v t="leo.20180626224250.1" a="E"><vh>week 10-1</vh>
+<v t="leo.20180626224306.1"><vh>week 10-1</vh></v>
+</v>
+<v t="leo.20180626224413.1" a="E"><vh>week 10-2</vh>
+<v t="leo.20180626224422.1"><vh>week 10-2</vh></v>
+</v>
+</v>
+<v t="leo.20180626224656.1"><vh>week 11</vh>
+<v t="leo.20180626224707.1"><vh>week 11</vh></v>
+</v>
+<v t="leo.20180626224805.1"><vh>week 12</vh>
+<v t="leo.20180626224825.1"><vh>week 12</vh></v>
+</v>
+<v t="leo.20180626224924.1"><vh>week 14</vh>
+<v t="leo.20180626224939.1"><vh>week 14</vh></v>
+</v>
+<v t="leo.20180626225020.1"><vh>week 15</vh>
+<v t="leo.20180626225028.1"><vh>week 15</vh></v>
+</v>
+<v t="leo.20180626225105.1"><vh>期末自評</vh>
+<v t="leo.20180626225119.1"><vh>期末自評</vh></v>
 </v>
 </v>
 </v>
@@ -67,11 +113,216 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20170622224243.1"></t>
-<t tx="leo.20170622234003.1"></t>
-<t tx="leo.20170622234235.1">&lt;section&gt;
+<t tx="leo.20170622234235.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20180626221335.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626221502.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626221900.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626222100.1">#第一週 2018/02/28
+
+228和平紀念日放假一次</t>
+<t tx="leo.20180626222209.1">#第二週 2018/03/07
+
+Proxy改為140.130.17.42 連接埠：3128
+請各組利用程式方法, 取得各組學員名單, 以 html 列出各組組序與組員學號, 並且列出電腦教室的班級座位表.
+https://ethercalc.org/f2v1ah61axug
+將隨身碟 3 中 cd 目錄中 kmol_level2 的 leo 模組升級為 5.7 final
+從https://github.com/leo-editor/leo-editor/releases/tag/5.7下載, 然後解開壓縮檔案後, 換掉 Python36/Lib/site-packages 目錄中的 leo 目錄</t>
+<t tx="leo.20180626222245.1">#第三週 2018/03/14
+
+建立小組gitbook
+
+[第3組gitbook](https://legacy.gitbook.com/book/s40523232/123/details)</t>
+<t tx="leo.20180626222602.1">#第四週 2018/03/21
+
+本週起，每一分組成員必須在各自的分組倉儲中至少提供一則mp4簡報或操作流程示範影片，說明該週的工作內容、進度與心得報告，並且將紙本筆記的內容整理到各組的gitbook線上報告中。
+</t>
+<t tx="leo.20180626222707.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626222717.1">#第五週 2018/03/28
+
+請根據
+二乙第五週第一堂課到課名單
+, 直接在各組 gh-pages 網頁或雲端主機上列出第一堂課缺席名單, 完成後, 將詳細處理過程、討論與心得放入各組的 Gitbook, 並將所完成的網址與 Gitbook 章節呈現在下列回應中.
+利用 Python3 找出缺席名單
+list1 = open('entire.txt', 'r')
+ list2 = open\('arrive.txt', 'r'\)
+#讀取 entire.txt(點名名單) &amp; arrive.txt(修課名單) 進行比對
+
+s1 = set(list1)
+s2 = set(list2)
+#將兩者集合
+print ('二乙缺席名單:')
+print (list(s1.symmetric_difference(s2)))
+顯示結果如下:
+二乙缺席名單:
+['40523224\n', '40523232\n', '40523212\n', '40523234\n', '40523227\n', '40523231\n', '40523217\n', '40523222\n']</t>
+<t tx="leo.20180626222847.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626222851.1">#第六週 2018/04/04
+
+清明連假放假一次</t>
+<t tx="leo.20180626222920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626222935.1">#第七週 2018/04/11
+
+做實不會虛,做虛不會實
+kinematic : 運動學 dynamic : 動力學 statics : 靜力學 geometry : 幾何
+系統是指有範圍
+分組期中報告
+各組的期中報告與自評內容包括:
+. 在 V-rep 模擬平台中, 展示各組所選定的鋼球運動系統, 是否可以完成至少兩個週期的循環運動?
+. 各組頂球機構的位移、速度與加速度分析, 手動運算是否與程式驗算或 V-rep 模擬相符?
+. 詳細說明各組如何進行協同設計, 如何利用 Gitbook、Github 與近端或雲端主機增加設計流程效益?
+. 提供各組鋼球運動系統的細部零件材料表、各零件工程圖與組立檔, 若使用 Solidworks, Inventor 或 Creo 請提供相關檔案, 若使用 Onshape, 請提供個零組件與工程圖的網路連結.
+. 所有組員的貢獻請各自使用學號登記下的 cd2018 倉儲展示, 各組期中報告則整理在各組的 Gitbook 中.</t>
+<t tx="leo.20180626223324.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180626223336.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626223407.1">#V-REP模擬
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dBYt6YG9YiU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180626223511.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626223535.1">#各組頂球機構的位移、速度與加速度分析,手動運算是否與程式驗算或
+V-rep模擬相符?
+
+[手算計算過程]
+360/190=1.89
+360 : 一圈
+190 : 總共秒數
+1.89 : 一圈/秒
+
+96.487*2/1.89=102.1
+96.487 : 軌道出入口距離
+102.1 : 一圈速度
+102.1/1.89=54.02
+54.02 : 加速度</t>
+<t tx="leo.20180626224025.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626224047.1">#自評成績
+
+40523232 陳煜蒼 : 65
+</t>
+<t tx="leo.20180626224124.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180626224250.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626224306.1">#兩段式六連桿提球機構設計與模擬
+
+下載 Pyslvs:
+http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z
+請各組在 W11 上課之前完成 Pyslvs 套件中之 ball lifter 機構的 Solvespace 零件組立與 V-rep 提球模擬
+各組請在各組倉儲中繳交 cd_w11_ag1.slvs 零件組立檔、cd_w11_ag1.pyslvs 機構模擬檔與 cd_w11_ag1.ttt 提球模擬檔
+各組在 W11 上課前, 必須拍攝利用此一雙階段提球機構, 將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片</t>
+<t tx="leo.20180626224413.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626224422.1">#兩段式六連桿提球機構設計與模擬
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CMHy38oILMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180626224656.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180626224707.1">#三段式連桿提球機構設計與模擬
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ogeFdqKkkpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180626224805.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180626224825.1">#WEEK 12 齒輪設計
+
+請各組員在各自的 Github Pages 中繪製一個自選齒數的漸開線正齒輪輪廓外型.
+完成單一齒輪輪廓繪圖後, 請繪製一組 50t 與 25t 的齒輪嚙合靜態輪廓圖.
+完成兩齒嚙合靜態繪圖後, 請嘗試轉為動態繪圖
+</t>
+<t tx="leo.20180626224924.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180626224939.1">#第14週
+
+偕同產品設計公布唐捐凡走過必留下痕跡設計是依連串問題解決的過程工程設計的結果應該是可以讓人依循且得到設計者所預期的結果協同是多人協力一同 試圖達到特定目標的作為</t>
+<t tx="leo.20180626225020.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180626225028.1">#第15週
+
+設定Pull Requests
+
+Pull Requests的設定是將github上的倉儲跟偕同者合併,這樣就可以每個人做每個人的工作,就不會予有改檔案的情形</t>
+<t tx="leo.20180626225105.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180626225119.1">##期末自評
+
+40523232 陳煜蒼 : 65</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -243,10 +494,10 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [賴瑋傑](http://chiamingyen.github.io/kmolab/blog/)
+Created by [陳煜蒼](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[40523243](blog/index.html)
+[40523232](blog/index.html)
 
 
     &lt;/script&gt;
@@ -262,107 +513,6 @@ g.es("admin pelican 近端執行完畢")
 
 </t>
 <t tx="yen.20170108171733.5"></t>
-<t tx="yen.20170108171733.64">&lt;section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-機械設計:設計士一種表達，寫在{設}說清楚意別人做甚麼
-表達方式:口語.文字.2D.實際.量化
-機:很多零件組合可精巧運作的器物
-械:在一定範圍內
-設:表達清楚
-計:經考量討論
-硬體.流體.軟體:最佳化
-    &lt;/script&gt;
-&lt;/section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-DNS連接到mdecourse.github.io
-CNAM:代表別名
-https://[2001:288:6004:17::7}
-學校   2001"288"6004"17::7
-           2001:booo:168::1
-proxy[2001:288:6004:17::17]
-雲端特性:彈性(工具)
-Mbr(Master Boot Record)
-SSD 固態硬碟(不旋轉)
-SCSI：小型電腦介面
-RAID：容錯式磁碟陣列（RAID，獨立磁盤冗餘陣列）
-    &lt;/script&gt;
-&lt;/section&gt;
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-虛擬主機
-Oracle 公司:資料庫
-設定值:單一
-檔案喜好 設定:系統
-網路NAT(服務系統)
-1.NAT網路(虛擬主機可透NAT來連線)
-僅限主機網路
-設定值
-橋接介面卡(找NAT)(與外接IP一樣)
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-DNS連接到mdecourse.github.io
-CNAM:代表別名
-https://[2001:288:6004:17::7}
-學校   2001"288"6004"17::7
-           2001:booo:168::1
-proxy[2001:288:6004:17::17]
-雲端特性:彈性(工具)
-Mbr(Master Boot Record)
-SSD 固態硬碟(不旋轉)
-SCSI：小型電腦介面
-RAID：容錯式磁碟陣列（RAID，獨立磁盤冗餘陣列）
-    &lt;/script&gt;
-&lt;/section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="yen.20170108171733.67">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.69">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-# 安裝使用Ubuntu
-
-&lt;iframe src="https://player.vimeo.com/video/214970970" width="640" height="385" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/214970970"&gt;2017-06-25_13-36-36&lt;/a&gt; from &lt;a href="https://vimeo.com/user65942712"&gt;林兆戎&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
-<t tx="yen.20170108171733.70">ipconfig/all
-ping 自己IP
-ping Gateway IP
-ping 外部 Gateway
-ping 外部 IP
-tracert 區域主要網站
-tracert 廣域網路主要網站
-fossil clone uri fossil-file
-fossil open
-fossil add
-</t>
 <t tx="yen.20170108171733.71"></t>
 <t tx="yen.20170108171733.8">@language xml
 @tabwidth -4
